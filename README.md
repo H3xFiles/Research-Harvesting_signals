@@ -22,7 +22,10 @@ Improving laptop battery efficiency.
  - https://www.youtube.com/watch?v=fT5_MmeSeDU
  - https://www.youtube.com/watch?v=2DUTnLv3z6U
  - https://engineering.mit.edu/engage/ask-an-engineer/can-sound-be-converted-to-useful-energy/
+ - https://ami-conferences.org/2005/proceedings/articles_pagines/38_pdf_file.pdf
+ - https://www.researchgate.net/publication/251862456_EH009
+ - https://pdfs.semanticscholar.org/1ca0/763d3dd6b3483ffa071557abce4758cedca4.pdf
+ - https://lectures.tik.ee.ethz.ch/lpsd/reading_seminar/lpsd_11_roundy_ccr2003_vibration_scavenging.pdf
  
-
 
 
