@@ -14,7 +14,7 @@ This is a different kind of git, totally out of my confort zone and much more in
 Improving laptop battery efficiency. 
 
 
-## Day 1, Alice in the wonderland chapter one "What a nice white rabbit!"
+## Day 1, Sturm und Drang
  - https://www.researchgate.net/profile/Marehalli_Prasad/publication/251862456_EH009/links/0f31752f4eb7d957f7000000/EH009.pdf
  - https://www.youtube.com/watch?v=VSF4SUKChzk
  - https://www.youtube.com/watch?v=L5fVFA2sWt4
